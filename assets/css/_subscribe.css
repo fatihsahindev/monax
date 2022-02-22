@@ -1,0 +1,42 @@
+/* Subscribe */
+
+.subscribe p {    
+    margin: 10px 0 37px;
+}
+
+.subscribe form {
+    max-width: 540px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.subscribe input[type=text] {
+    width: calc(100%-170px);
+    padding: 16px 23px;
+    border-radius: 4px 0 0 4px;
+    border: 2px solid #fff;
+}
+
+.subscribe input[type=text]:focus {
+    outline: none;
+    border: 2px solid #55BC7E;
+}
+
+.subscribe input[type=submit] {
+    color: #fff;
+    width: 170px;
+    margin-left: -10px;
+    padding: 16px 28px;
+    background: #55BC7E;
+    border-radius: 0px 4px 4px 0px;
+    border: 2px solid #55BC7E;
+}
+
+.subscribe input[type=submit]:hover {
+    color: #55BC7E;
+    background: #fff;
+    border-radius: 0px 4px 4px 0px;
+    transition: 0.5s;
+}

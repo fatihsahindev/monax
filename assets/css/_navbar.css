@@ -32,11 +32,3 @@ nav .nav-btn:hover {
     background-color: transparent;
     transition: 0.5s;
 }
-
-#row-1 {
-    padding-bottom: 103px !important;
-}
-
-#row-2 {
-    padding-bottom: 134px !important;
-}

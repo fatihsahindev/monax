@@ -21,6 +21,17 @@
     background-position: bottom right;
 }
 
+#fluid-4 {
+    background-color: #344763;
+}
+
+#fluid-5 {
+    background-color: #fff;
+    background-image: url('../icon/bg-dots.svg');
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+
 /* Typography */
 
 * {
@@ -63,6 +74,13 @@ p {
     line-height: 28px;
 }
 
+p.light {
+    color: #EAEBF5;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 28px;
+}
+
 .rmore {
     color: #373B61;
     font-weight: 500;
@@ -73,6 +91,32 @@ p {
 
 .rmore:hover {
     color: #55BC7E;
+}
+
+/* Row */
+
+#row-1 {
+    padding-bottom: 103px;
+}
+
+#row-2 {
+    padding-bottom: 134px;
+}
+
+#row-3 {
+    padding: 96px 0 125px;
+}
+
+#row-4 {
+    padding: 60px 0 100px;
+}
+
+#row-5 {
+    padding: 90px 0 100px;
+}
+
+#row-6 {
+    padding: 90px 0;
 }
 
 /* Responsive */
