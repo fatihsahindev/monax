@@ -14,6 +14,13 @@
     background-position: bottom 67px right 67px;
 }
 
+#fluid-3 {
+    background-color: #ECF1F4;
+    background-image: url('../icon/bg-dots.svg');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
 /* Typography */
 
 * {
@@ -54,4 +61,16 @@ p {
     font-weight: 400;
     font-size: 16px;
     line-height: 28px;
+}
+
+.rmore {
+    color: #373B61;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration: none;
+}
+
+.rmore:hover {
+    color: #55BC7E;
 }

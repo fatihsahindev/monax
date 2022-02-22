@@ -1,0 +1,17 @@
+/* Hero 2 */
+
+.hero-2 {
+    padding: 115px 215px 100px;
+}
+
+.hero-2 h2 {
+    margin-bottom: 13px;
+}
+
+.hero-2 p {
+    margin-bottom: 34px;
+}
+
+.hero-2 img {
+    max-width: 100%;
+}
