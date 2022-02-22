@@ -1,0 +1,50 @@
+/* Background Color */
+
+#fluid-1 {
+    background-color: #ECF1F4;
+    background-image: url('../img/dots.svg');
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+
+/* Typography */
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    color: #050931;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 50px;
+    margin-bottom: 14px;
+}
+
+h2 {
+    color: #050931;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 45px;
+}
+
+h2.light {
+    color: #fff;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 45px;
+}
+
+h3 {
+    color: #131848;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+p {
+    color: #8F91A1;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+}

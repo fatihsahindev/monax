@@ -1,0 +1,31 @@
+/* Hero */
+
+.hero h1 {
+    margin-bottom: 14px;
+}
+
+.hero .slogan {
+    color: #4E6570;
+    background-color: #D3E8E1;
+    display: inline-block;
+    border-radius: 23px;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 20px;
+    padding: 5px 23px;
+    margin-bottom: 19px;
+    width: 249x;
+}
+
+.hero img {
+    max-width: 100%;
+}
+
+@media screen and (max-width: 991.5px) {
+
+    .hero {
+        align-items: center;
+        text-align: center;
+    }
+
+}
