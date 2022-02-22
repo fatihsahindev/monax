@@ -4,6 +4,10 @@
     margin-bottom: 14px;
 }
 
+.hero p {
+    margin-bottom: 33px;
+}
+
 .hero .slogan {
     color: #4E6570;
     background-color: #D3E8E1;
@@ -19,6 +23,38 @@
 
 .hero img {
     max-width: 100%;
+}
+
+.hero form {
+    width: 405px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.hero input[type=text] {
+    width: calc(100%-131px);
+    padding: 16px 23px;
+    border-radius: 4px 0 0 4px;
+    border: 2px solid #fff;
+}
+
+.hero input[type=submit] {
+    color: #fff;
+    width: 131px;
+    margin-left: -4px;
+    padding: 16px 28px;
+    background: #55BC7E;
+    border-radius: 0px 4px 4px 0px;
+    border: 2px solid #55BC7E;
+}
+
+.hero input[type=submit]:hover {
+    color: #55BC7E;
+    background: #fff;
+    border-radius: 0px 4px 4px 0px;
+    transition: 0.5s;
 }
 
 @media screen and (max-width: 991.5px) {

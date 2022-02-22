@@ -1,0 +1,14 @@
+/* About */
+
+.about {
+    padding: 96px 220px;
+}
+
+.about .col-lg-4 {
+    text-align: center;
+}
+
+.about .col-lg-4 h3 {
+    text-align: center;
+    margin: 33px 0 15px;
+}

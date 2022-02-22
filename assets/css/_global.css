@@ -2,9 +2,16 @@
 
 #fluid-1 {
     background-color: #ECF1F4;
-    background-image: url('../img/dots.svg');
+    background-image: url('../icon/bg-dots.svg');
     background-repeat: no-repeat;
     background-position: bottom left;
+}
+
+#fluid-2 {
+    background-color: #fff;
+    background-image: url('../icon/bg-square.svg');
+    background-repeat: no-repeat;
+    background-position: bottom 67px right 67px;
 }
 
 /* Typography */
