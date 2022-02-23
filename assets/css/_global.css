@@ -54,6 +54,14 @@
     background-position: top left, bottom right;
 }
 
+#fluid-10 {
+    background-color: rgba(236, 241, 244, 0.41);
+}
+
+#fluid-11 {
+    background-color: #fff;
+}
+
 /* Typography */
 
 * {
@@ -166,6 +174,14 @@ p.light {
 
 #row-11 {
     padding: 94px 0 100px;
+}
+
+#row-12 {
+    padding: 100px 0 92px;
+}
+
+#row-13 {
+    padding: 88px 0 90px;
 }
 
 /* Responsive */
