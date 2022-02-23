@@ -1,0 +1,12 @@
+/* Services */
+
+.services .col-lg-2 {
+    background-color: #fff;    
+    width: 233px;
+    padding: 29px 11px 28px;
+    margin: 9px 11px;
+}
+
+.services h2 {
+    margin-bottom: 26px;
+}

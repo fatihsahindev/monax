@@ -15,7 +15,7 @@
 }
 
 #fluid-3 {
-    background-color: #ECF1F4;
+    background-color: rgba(236, 241, 244, 0.41);
     background-image: url('../icon/bg-dots.svg');
     background-repeat: no-repeat;
     background-position: bottom right;
@@ -30,6 +30,10 @@
     background-image: url('../icon/bg-dots.svg');
     background-repeat: no-repeat;
     background-position: bottom left;
+}
+
+#fluid-6 {
+    background-color: rgba(236, 241, 244, 0.41);
 }
 
 /* Typography */
@@ -64,6 +68,13 @@ h3 {
     color: #131848;
     font-weight: 500;
     font-size: 20px;
+    line-height: 20px;
+}
+
+h4 {
+    color: #3C3F60;
+    font-weight: 500;
+    font-size: 18px;
     line-height: 20px;
 }
 
@@ -117,6 +128,14 @@ p.light {
 
 #row-6 {
     padding: 90px 0;
+}
+
+#row-7 {
+    padding-top: 90px;
+}
+
+#row-8 {
+    padding-bottom: 100px;
 }
 
 /* Responsive */
