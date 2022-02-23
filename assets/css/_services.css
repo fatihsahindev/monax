@@ -7,6 +7,16 @@
     margin: 9px 11px;
 }
 
+.services .col-lg-2:hover {
+    background-color: #49A16C;  
+    transition: 1s;
+}
+
+.services .col-lg-2:hover p {
+    color: #fff;
+    transition: 0.5s;
+}
+
 .services h2 {
     margin-bottom: 26px;
 }

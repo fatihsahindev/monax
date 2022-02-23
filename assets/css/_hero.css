@@ -67,3 +67,19 @@
 .hero-2 img {
     max-width: 100%;
 }
+
+/* Hero 3 */
+
+.hero-4 img {
+    max-width: 100%;
+}
+
+/* Hero 4 */
+
+.hero-4 img {
+    max-width: 100%;
+}
+
+.hero-4 .col-lg-4 + p{
+    padding: 12px 0 30px;
+}
