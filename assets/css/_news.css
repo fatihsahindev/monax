@@ -22,3 +22,28 @@
 .news .rmore:hover {
     color: #373B61;
 }
+
+/* News */
+
+.news-box {
+    padding: 15px;
+}
+
+.news h2 {
+    margin-bottom: 30px;
+}
+
+.news h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    margin: 35px 0 27px;
+}
+
+.news .rmore {
+    color: #55BC7E;
+}
+
+.news .rmore:hover {
+    color: #373B61;
+}
