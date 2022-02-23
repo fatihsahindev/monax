@@ -43,6 +43,10 @@
     background-position: bottom right;
 }
 
+#fluid-8 {
+    background-color: #344763;
+}
+
 /* Typography */
 
 * {
@@ -147,6 +151,10 @@ p.light {
 
 #row-9 {
     padding: 82px 0 77px;
+}
+
+#row-10 {
+    padding: 98px 0 87px;
 }
 
 /* Responsive */

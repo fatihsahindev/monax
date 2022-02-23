@@ -80,6 +80,11 @@
     max-width: 100%;
 }
 
-.hero-4 .col-lg-4 + p{
-    padding: 12px 0 30px;
+.hero-4 .col-lg-4 > p {
+    padding: 4px 0 14px;
+}
+
+.hero-4 .rmore {
+    display: inline-block;
+    margin-top: 14px;
 }

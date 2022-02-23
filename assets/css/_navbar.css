@@ -15,10 +15,10 @@ nav li a:focus {
     color: #55BC7E !important;
 }
 
-nav .nav-btn {    
+nav .btn {    
     font-size: 15px;
     font-weight: 500;
-    color: #ffffff;
+    color: #fff;
     background-color: #49A16C;
     border: 2px solid #49A16C;    
     text-decoration: none;
@@ -27,7 +27,7 @@ nav .nav-btn {
     border-radius: 4px;
 }
 
-nav .nav-btn:hover {
+nav .btn:hover {
     color: #49A16C;
     background-color: transparent;
     transition: 0.5s;

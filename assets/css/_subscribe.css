@@ -40,3 +40,27 @@
     border-radius: 0px 4px 4px 0px;
     transition: 0.5s;
 }
+
+/* Subscribe 2 */
+
+.subscribe-2 .btn {    
+    font-size: 15px;
+    font-weight: 500;
+    color: #fff;
+    background-color: #49A16C;
+    border: 2px solid #49A16C;    
+    text-decoration: none;
+    padding: 13px 30px; 
+    border-radius: 4px;
+}
+
+.subscribe-2 .btn:hover {
+    color: #fff;
+    background-color: transparent;
+    border: 2px solid #fff;
+    transition: 0.5s;
+}
+
+.subscribe-2 p {
+    padding: 4px 0 20px;
+}
