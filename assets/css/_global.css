@@ -201,7 +201,10 @@ p.light {
         align-items: center;
         text-align: center;
     }
+}
 
+img {
+    max-width: 100%;
 }
 
 /* Scrollbar */
@@ -220,4 +223,27 @@ p.light {
 
 ::-webkit-scrollbar-thumb:hover {
     background: #439664;
+}
+
+@media screen and (max-width: 570px) {
+
+    form {
+        text-align: center !important;
+        position: relative !important;
+    }
+
+    input {
+        display: block;
+        width: 200px !important;
+        margin: 0 auto !important;
+        text-align: center;
+    }
+
+    input[type=text] {
+        border-radius: 4px 4px 0 0 !important;
+    }
+
+    input[type=submit] {
+        border-radius: 0 0 4px 4px !important;
+    }
 }

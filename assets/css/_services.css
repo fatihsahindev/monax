@@ -20,3 +20,10 @@
 .services h2 {
     margin-bottom: 26px;
 }
+
+@media screen and (max-width: 1019.5px) and (min-width: 764.5px) {
+
+    .services .col-lg-2 {
+        flex: 0 0 calc(100% / 3);
+    }
+}
