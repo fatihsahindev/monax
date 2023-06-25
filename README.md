@@ -1,3 +1,3 @@
 # Monax
 
-- [Live Demo](https://falovic.github.io/monax)
+- [Live Demo](https://fatihsahindev.github.io/monax)
